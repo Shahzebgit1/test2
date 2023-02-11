@@ -1,0 +1,61 @@
+4  sudo apt update
+   75  ls
+   76  clear
+   77  git branch
+   78  git branch develop
+   79  ls
+   80  mkdir folder3
+   81  ls
+   82  cd folder3
+   83  git init
+   84  git branch develop
+   85  nano main.txt
+   86  git add main.txt
+   87  git commit -m "woow"
+   88  git status
+   89  clear
+   90  git branch
+   91  git branch develop
+   92  git branch f1
+   93  git branch f2
+   94  git barnch
+   95  gt branch
+   96  clear
+   97  git branch
+   98  git checkout develop
+   99  git branch
+  100  nano devlop.txt
+  101  ls
+  102  git add .
+  103  git commit -m "hey"
+  104  clear
+  105  git checkoutf1
+  106  git checkout f1
+  107  touch f1.txt
+  108  git add .
+  109  git commit -m "cool"
+  110  clear
+  111  git checkout f2
+  112  touch f2.txt
+  113  git add .
+  114  git commit -m "hiii"
+  115  git remote add origin https://github.com/Shahzebgit1/test2.git
+  116  clear
+  117  git branch
+  118  git push origin --all
+  119  clear
+  120  git push origin --all
+  121  clear
+  122  history
+  123  clear
+  124  git branch
+  125  git branch -D f2
+  126  git ckechout master
+  127  git checkoutmaster
+  128  clear
+  129  git checkout master
+  130  git branch
+  131  git branch -D f2
+  132  git branch
+  133  git push origin --delete f2
+  134  history

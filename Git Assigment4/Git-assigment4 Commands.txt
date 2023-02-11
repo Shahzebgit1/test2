@@ -1,0 +1,49 @@
+ mkdir folder4
+  138  cd
+  139  mkdir folder4
+  140  cd folder4
+  141  git init
+  142  nano master.txt
+  143  git add .
+  144  git commit -m "woow"
+  145  git branch
+  146  clear
+  147  git branch
+  148  git branch public1
+  149  git branch public2
+  150  git brach private
+  151  git branch private
+  152  clear
+  153  git branch
+  154  git checkout public1
+  155  nano public.txt
+  156  git add .
+  157  git commit -m "coool buddy"
+  158  clear
+  159  git checkout master
+  160  git merge public1
+  161  ls
+  162  clear
+  163  git merge public2
+  164  git checkout private
+  165  nano master.txt
+  166  git add master.txt
+  167  git commit -m "changes"
+  168  clear
+  169  cat master.txt
+  170  git checkout public1
+  171  ls
+  172  cat master.txt
+  173  git merge private
+  174  cat master.txt
+  175  git checkout master
+  176  clear
+  177  git branch
+  178  cat master.txt
+  179  git merge private
+  180  cat master.txt
+  181  clear
+  182  git checkout private
+  183  git merge master
+  184  clear
+  185  history
